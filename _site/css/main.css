@@ -118,3 +118,43 @@
   .about-page .prose p,.about-page .research-row p,.about-page .course-row p,
   .about-page .service-detail ul,.about-page .simple-list li{font-size:11pt}
 }
+
+/* Standard reading sizes across the website. */
+body{font-size:14px}
+.hero h1{font-size:clamp(28px,3.5vw,44px)}
+.hero-statement{font-size:18px;line-height:1.6}
+.page-intro h1{font-size:36px;line-height:1.2}
+.lab-hero h1{font-size:40px;line-height:1.2}
+.lab-tagline{font-size:18px;line-height:1.6}
+.section-heading h2,.research-detail h2,.team-contact h2{font-size:24px;line-height:1.25}
+.research-collaboration h2,.lab-invitation h2,.footer-main h2{font-size:28px}
+.year-heading h2,.team-section>h2{font-size:22px}
+.research-number{font-size:36px}
+.paper h3,.resource-list h3,.member-info h3,.lab-team-grid .member-info h3{font-size:18px}
+.lab-director h2{font-size:20px}
+.about-page .section-heading h2{font-size:24px;line-height:1.25}
+.about-page .home-secondary .section-heading h2,.about-page .lab-note h2{font-size:20px}
+.about-page .prose p{font-size:14px;line-height:1.75;margin-bottom:15px}
+.about-page .research-row h3{font-size:16px}
+.about-page .paper-compact h3,.about-page .course-row h3{font-size:18px}
+.about-page .paper-compact .authors{font-size:12px}
+.about-page .course-row p,.about-page .lab-note p:not(.eyebrow){font-size:13px}
+.about-page .service-detail summary{font-size:14px;padding:18px 0}
+.about-page .service-detail ul,.about-page .simple-list li{line-height:1.7}
+.about-page .content-section{margin-bottom:44px}
+.about-contributions{margin-top:44px}
+.about-page .paper-compact,.about-page .course-row{padding:20px 0}
+.about-page .section-heading .text-link{padding-top:0}
+@media(max-width:760px){
+  .page-intro h1,.lab-hero h1{font-size:30px}
+  .lab-research .section-heading h2{font-size:22px}
+  .research-number{font-size:28px}
+  .about-page .section-heading h2{font-size:22px}
+  .about-page .content-section{margin-bottom:36px}
+  .about-contributions{margin-top:36px}
+}
+@media print{
+  .hero h1{font-size:28pt}
+  .about-page .prose p,.about-page .research-row p,.about-page .course-row p,
+  .about-page .service-detail ul,.about-page .simple-list li{font-size:11pt}
+}
