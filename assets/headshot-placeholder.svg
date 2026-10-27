@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="600" viewBox="0 0 480 600" fill="none">
+  <rect width="480" height="600" fill="#eef4fa"/>
+  <path d="M40 80V40h40M400 40h40v40M40 520v40h40M400 560h40v-40" stroke="#adc4dd" stroke-width="2"/>
+  <circle cx="240" cy="223" r="73" fill="#a9c0db"/>
+  <path d="M103 435c0-76 61-138 137-138s137 62 137 138v17H103v-17Z" fill="#a9c0db"/>
+  <path d="M215 488h50" stroke="#fdb927" stroke-width="2"/>
+  <text x="240" y="525" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="2" fill="#004684">PHOTO COMING SOON</text>
+</svg>

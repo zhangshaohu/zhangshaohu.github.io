@@ -1,0 +1,369 @@
+{
+  "profile": {
+    "name": "Shaohu Zhang",
+    "intro": "I study how intelligent systems can better assist and protect people: their privacy, their security, and their everyday lives.",
+    "degree": "Ph.D.",
+    "role": "Assistant Professor",
+    "department": "Department of Computer Science",
+    "institution": "North Carolina Agricultural and Technical State University",
+    "portrait": "pic/Head.JPG",
+    "cv": "Shaohu_CV.pdf",
+    "scholar": "https://scholar.google.com/citations?user=7Z3d5VoAAAAJ&hl=en",
+    "orcid": "https://orcid.org/0000-0001-8985-515X",
+    "lab_name": "X+ Intelligence Lab",
+    "lab_url": "lab.html",
+    "github": "https://github.com/zhangshaohu",
+    "bio": [
+      "My research focuses on trustworthy AI, mobile computing, and cybersecurity. I use AI and machine learning with ubiquitous modalities—including WiFi signals, cameras, and acoustics—to develop applications that protect sensitive personal data and secure AI systems.",
+      "I collaborate across transportation engineering, sociology, health, agriculture, and data science. I lead the X+ Intelligence Lab and am affiliated with the Cyber Defense and AI Lab.",
+      "I earned my Ph.D. in Computer Science from North Carolina State University in 2023, working with Prof. Muhammad Shahzad in the Wolfpack Interactive, Sensing, and Networking Lab and with Prof. Anupam Das in the Wolfpack Security and Privacy Research Lab. From 2023 to 2025, I was an assistant professor in Computer Science at UNC Pembroke."
+    ],
+    "bio_links": [],
+    "chinese_name": "张少虎",
+    "email_image": "assets/contact-primary.png",
+    "secondary_email_image": "assets/contact-secondary.png"
+  },
+  "lab": {
+    "tagline": "Trustworthy intelligence for a connected world.",
+    "description": [
+      "X+ Intelligence Lab studies trustworthy AI, mobile computing, and cybersecurity. We explore WiFi signals, cameras, acoustics, and other ubiquitous sensing modalities to protect sensitive personal data and strengthen AI systems.",
+      "Our work connects security and privacy, context-aware and explainable AI, mobile sensing, and large language models. Applications span transportation, smart homes, and agriculture, with collaborations across sociology, health, and data science."
+    ]
+  },
+  "research": [
+    {
+      "title": "Security and privacy",
+      "tag": "Privacy & authentication",
+      "description": "Fingerprinting and human biometric security, with a focus on privacy and authentication through embedded sensors in digital devices."
+    },
+    {
+      "title": "Trustworthy and explainable AI",
+      "tag": "Context-aware intelligence",
+      "description": "Context-aware mobile systems that connect cyber-physical systems and AI for reliable, adaptive interactions."
+    },
+    {
+      "title": "Mobile computing",
+      "tag": "Ubiquitous sensing",
+      "description": "Sensing with WiFi, cameras, inertial measurement units, virtual reality, unmanned aerial vehicles, and sound for intelligent transportation and smart homes."
+    },
+    {
+      "title": "Large language models and NLP",
+      "tag": "Language & applications",
+      "description": "Speech privacy, speech translation, and applications of large language models in agriculture and transportation."
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-01-15",
+      "text": "Welcome Ph.D. students Botun and Sharun to our research group!"
+    },
+    {
+      "date": "2025-06-20",
+      "text": "I visited Yale Quantum Institute (YQI) for the HBCU QISE (Quantum Information Science and Engineering) Short Course."
+    },
+    {
+      "date": "2025-05-15",
+      "text": "I will be joining North Carolina A&T State University as an Assistant Professor this fall."
+    },
+    {
+      "date": "2025-05-01",
+      "text": "Our LLM Built Environment paper was accepted by the DSML workshop co-located with DSN 2025. Congratulations to undergraduate research student Andrew!"
+    },
+    {
+      "date": "2025-03-18",
+      "text": "I gave a virtual guest talk on Human-Centered Cybersecurity for Louisiana State University."
+    },
+    {
+      "date": "2025-03-12",
+      "text": "Our team will present four posters at the Pembroke Undergraduate Research and Creativity Symposium!"
+    },
+    {
+      "date": "2025-03-10",
+      "text": "AI Adoption in Agriculture was pre-awarded (PI, $85K)."
+    },
+    {
+      "date": "2024-11-21",
+      "text": "Congratulations to Mohammad on receiving a MobiCom 2024 travel grant and attending the conference."
+    },
+    {
+      "date": "2024-11-01",
+      "text": "I was invited to serve on the technical program committees for PETS 2025 and ICNC 2025."
+    },
+    {
+      "date": "2024-10-01",
+      "text": "I gave a guest talk about Digital Privacy in the Thomas College of Business and Economics at UNC Pembroke."
+    },
+    {
+      "date": "2024-09-15",
+      "text": "Welcome Muhammad and Sam to my research group."
+    },
+    {
+      "date": "2024-04-10",
+      "text": "Najmul, Andrew, Kai, and Mushfique presented their poster at the UNC Pembroke PURC Symposium."
+    },
+    {
+      "date": "2024-02-26",
+      "text": "Welcome Mushfique Rahman, Andrew Cart, and Kai Anderson to our research team on the Neighborhood Microscope project!"
+    },
+    {
+      "date": "2023-12-20",
+      "text": "Our UNC Pembroke team was selected to participate in Cohort II of the Capacity Building for Research at Minority-Serving Institutions: Infrastructure Research Readiness (CyBR-MSI: IRR) program."
+    },
+    {
+      "date": "2023-12-14",
+      "text": "Congratulations to Najmul Hasan on winning the Semester Long Undergraduate Research Fellowship (SURF) for Spring 2024 ($2K)."
+    },
+    {
+      "date": "2023-12-11",
+      "text": "Chathura Perera joined our lab."
+    },
+    {
+      "date": "2023-12-01",
+      "text": "The Cyber Escape Rooms proposal was funded by UNC Pembroke ($10K, Co-PI)."
+    },
+    {
+      "date": "2023-10-26",
+      "text": "Our Neighborhood Microscope proposal was selected for funding ($86K, PI)!"
+    },
+    {
+      "date": "2023-10-01",
+      "text": "Ruoyu Zhao joined our lab."
+    },
+    {
+      "date": "2023-09-15",
+      "text": "Najmul Hasan joined our lab."
+    },
+    {
+      "date": "2023-08-16",
+      "text": "Chunsheng Zhang joined our lab."
+    },
+    {
+      "date": "2023-06-22",
+      "text": "I will serve on the technical program committee for SmartWear 2023, in conjunction with MobiCom 2023.",
+      "url": "https://smart-wear-2023-bjfs.vercel.app/call_for_papers"
+    },
+    {
+      "date": "2023-06-21",
+      "text": "I was invited to serve on the technical program committee for VTC 2023-Fall in Hong Kong."
+    },
+    {
+      "date": "2023-05-23",
+      "text": "I will join the faculty as a tenure-track assistant professor in the Computer Science department at UNC Pembroke this fall."
+    },
+    {
+      "date": "2023-05-17",
+      "text": "I defended and graduated. Cheers!"
+    },
+    {
+      "date": "2023-04-26",
+      "text": "Our INSPIRE paper on pedestrian and vehicle privacy preservation was accepted to IEEE ICCCN 2023!"
+    },
+    {
+      "date": "2023-03-29",
+      "text": "I will serve on the program committee for the DSN 2023 Doctoral Forum."
+    },
+    {
+      "date": "2023-03-29",
+      "text": "Our VoicePM paper on speech privacy preservation was accepted to WiSec 2023!"
+    },
+    {
+      "date": "2023-03-28",
+      "text": "I gave a talk on “Web Privacy in the Digital World” at UNC Pembroke."
+    },
+    {
+      "date": "2023-03-27",
+      "text": "I will again serve on the Replicability Committee for WiSec 2023."
+    },
+    {
+      "date": "2023-03-17",
+      "text": "Our HeadTalk paper on thwarting the misactivation of voice assistants was accepted to IEEE DSN 2023!"
+    },
+    {
+      "date": "2023-02-17",
+      "text": "I passed my oral preliminary exam!"
+    },
+    {
+      "date": "2023-01-27",
+      "text": "I was awarded a HotMobile 2023 travel grant."
+    },
+    {
+      "date": "2023-01-09",
+      "text": "I am co-instructing CSC773 Advanced Internet Protocols with Dr. Harfoush in Spring 2023."
+    },
+    {
+      "date": "2022-12-22",
+      "text": "I received the College of Engineering Mentored Teaching Fellowship."
+    },
+    {
+      "date": "2022-11-26",
+      "text": "Our research proposal, Physical Context-aware Voice Assistant for Smart Homes (lead PI: Anupam Das), won $75K in research funding from Meta."
+    },
+    {
+      "date": "2022-09-06",
+      "text": "I will serve on the Artifact Review Committees for ACSAC 2023 and USENIX Security 2023."
+    },
+    {
+      "date": "2022-08-30",
+      "text": "I will serve on the Artifact Review Committee for PoPETs 2023."
+    }
+  ],
+  "teaching": [
+    {
+      "code": "COMP895",
+      "title": "LLM and Security",
+      "terms": [
+        "Fall 2026",
+        "Course Website: https://zhangshaohu.github.io/llm_security/"
+      ]
+    },
+    {
+      "code": "COMP710",
+      "title": "Software Specifications and Design",
+      "terms": [
+        "Spring 2026"
+      ]
+    },
+    {
+      "code": "COMP385",
+      "title": "Theory of Computing",
+      "terms": [
+        "Fall 2025",
+        "Spring 2026"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "name": "Md Mehraz Hosen",
+      "role": "Ph.D. Student",
+      "focus": "Smart Transportation",
+      "since": "Fall 2026",
+      "photo": ""
+    },
+    {
+      "name": "Bontu Geremew",
+      "role": "Ph.D. Student",
+      "focus": "Humanoid Robot",
+      "since": "Spring 2026",
+      "photo": ""
+    },
+    {
+      "name": "Sharun Akter Khushbu",
+      "role": "Ph.D. Student",
+      "focus": "Agriculture AI",
+      "since": "Spring 2026",
+      "photo": ""
+    },
+    {
+      "name": "Charlestone Mayenga",
+      "role": "Undergraduate Student",
+      "focus": "",
+      "since": "",
+      "photo": ""
+    }
+  ],
+  "awards": [
+    "COE Mentored Teaching Fellowship, College of Engineering, North Carolina State University, 2023.",
+    "Summer Graduate Fellowship, College of Engineering, North Carolina State University, 2022.",
+    "Travel awards from SenSys 2016, MobiCom 2017, MobiCom 2021, and CCS 2021.",
+    "COE Graduate Research Award, College of Engineering, North Carolina State University, 2018.",
+    "Sigma Xi Graduate Research Award, South Dakota State University, 2016.",
+    "Best Undergraduate Thesis Award, Zhejiang Ocean University, China, 2010.",
+    "Excellent Student Scholarship, Zhejiang Ocean University, China, 2008."
+  ],
+  "service": [
+    {
+      "title": "Technical Program Committee",
+      "items": [
+        "IEEE Global Communications Conference (GLOBECOM), 2026.",
+        "26th Privacy Enhancing Technologies Symposium (PETS), 2026.",
+        "International Conference on Computing, Networking and Communications (ICNC), Honolulu, Hawaii, 2025.",
+        "25th Privacy Enhancing Technologies Symposium (PETS), Washington, D.C., 2025.",
+        "First International Workshop on IoT Datasets for Multi-modal Large Model (IoT-MMLM), in conjunction with SenSys, 2024.",
+        "IEEE 100th Vehicular Technology Conference (VTC-Fall), Washington, D.C., 2024.",
+        "2nd ACM Workshop on Smart Wearable Systems and Applications (SmartWear), in conjunction with MobiCom, Madrid, Spain, October 6, 2023.",
+        "IEEE 98th Vehicular Technology Conference (VTC-Fall), Hong Kong, 2023.",
+        "Ph.D. Forum, 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), 2023."
+      ]
+    },
+    {
+      "title": "Artifact Review Program Committee",
+      "items": [
+        "USENIX Security Symposium, 2023.",
+        "Privacy Enhancing Technologies Symposium (PoPETs), 2023.",
+        "ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2023.",
+        "Annual Computer Security Applications Conference (ACSAC), 2023.",
+        "ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2022–2023."
+      ]
+    },
+    {
+      "title": "Conference and Journal Reviewer",
+      "items": [
+        "IEEE Security & Privacy.",
+        "IEEE Transactions on Reliability.",
+        "ACM Transactions on Interactive Intelligent Systems.",
+        "IEEE Internet of Things Journal.",
+        "IEEE Transactions on Mobile Computing.",
+        "Transportation Research Record (TRR), 2023.",
+        "International Journal of Human-Computer Interaction (IJHCI), 2023.",
+        "ACM Conference on Computer and Communications Security (CCS), 2021–2024.",
+        "IEEE Symposium on Security and Privacy, 2021.",
+        "ISOC Network and Distributed System Security Symposium (NDSS), 2021–2023.",
+        "Annual Computer Security Applications Conference (ACSAC), 2022–2023.",
+        "ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2021–2022.",
+        "ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys), 2019.",
+        "ACM Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2019, 2021, 2022."
+      ]
+    },
+    {
+      "title": "Research Connections",
+      "items": [
+        "My Erdős number is 4: Paul Erdős → Daniel J. Kleitman → Joseph Y.-T. Leung → Sang Hyuk Son → Shaohu Zhang."
+      ]
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Tao Wang",
+      "url": "https://profiles.stanford.edu/taowang9?releaseVersion=10.5.2",
+      "affiliation": "Stanford University"
+    },
+    {
+      "name": "Anupam Das",
+      "url": "https://anupamdas.org/",
+      "affiliation": "North Carolina State University"
+    },
+    {
+      "name": "Jonathan Wood",
+      "url": "https://www.engineering.iastate.edu/people/profile/jwood2/",
+      "affiliation": "Iowa State University"
+    },
+    {
+      "name": "Muhammad Shahzad",
+      "url": "http://www4.ncsu.edu/~mshahza/",
+      "affiliation": "North Carolina State University"
+    },
+    {
+      "name": "Myounggyu Won",
+      "url": "https://www.cs.memphis.edu/~mwon1/",
+      "affiliation": "University of Memphis"
+    },
+    {
+      "name": "Sang Hyuk Son",
+      "url": "http://rtcps.dgist.ac.kr/son/",
+      "affiliation": "University of Virginia"
+    }
+  ],
+  "resources": [
+    {
+      "title": "Networking conference statistics",
+      "url": "http://www.cs.ucsb.edu/~almeroth/conf/stats/",
+      "description": "Conference statistics for networking research."
+    },
+    {
+      "title": "Managing your advisor",
+      "url": "https://greatresearch.org/2013/08/14/managing-your-advisor/",
+      "description": "A Great Research article on managing the advisor relationship."
+    }
+  ]
+}
