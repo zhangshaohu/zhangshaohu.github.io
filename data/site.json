@@ -243,9 +243,9 @@
     {
       "name": "Bontu Geremew",
       "role": "Ph.D. Student",
-      "focus": "Humanoid Robot",
+      "focus": "Privacy, Humanoid Robot",
       "since": "Spring 2026",
-      "photo": ""
+      "photo": "people/bontu-geremew.jpg"
     },
     {
       "name": "Sharun Akter Khushbu",
@@ -258,7 +258,14 @@
       "name": "Charlestone Mayenga",
       "role": "Undergraduate Student",
       "focus": "",
-      "since": "",
+      "since": "Fall 2025",
+      "photo": ""
+    },
+    {
+      "name": "Amogh Prashanth",
+      "role": "High School Student",
+      "focus": "Agriculture AI",
+      "since": "Spring 2026",
       "photo": ""
     }
   ],
